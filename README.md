@@ -5,7 +5,7 @@
   </a>
 </p>
 
-<h1 align="center"><b>Phát triển ứng dụng web - IS207.N11.HTCL</b></h>
+<h1 align="center"><b>Thiết kế hệ thống nhúng - CE224.N12.MTCL </b></h>
 
 ## GIỚI THIỆU MÔN HỌC
 * **Tên môn học:** Thiết kế hệ thống nhúng
